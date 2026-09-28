@@ -1,2 +1,12 @@
-# wesleyviana18-wesleyviana18
-estruturando meu perfil do github
+# olá, sou o wesleyviana18
+
+# Atuação Profissional 
+* cursando ciência da computação
+
+# Especialidades
+* java, css ,html ,c++
+
+
+
+
+
