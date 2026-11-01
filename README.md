@@ -1,6 +1,7 @@
 ### Olá, sou o wesley  wesleyviana18 (wesleyviana18) 
 * estou cursando ciência da computação (Unigrande)
 ### Especialidades
+* SQL
 * java
 * html
 * CSS
