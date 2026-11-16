@@ -2,13 +2,9 @@
 * estou cursando ciência da computação (Unigrande)
   
 ### Especialidades
-* SQL
-* java
-* html
-* CSS
-* C++
+ Foco em Inteligência Artificial, LLMs, Agentes , Java ,CSS e HTML
   
-### Projeto em destaque
+### Projetos em destaque
 https://github.com/wesleyviana18/deshboard_vendas_porshe
 
 https://github.com/wesleyviana18/dio-lab-vibe-coding-app-financas
